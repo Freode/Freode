@@ -14,8 +14,8 @@
 <br>
 <br>
 
-![[YOUR_USERNAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?user
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME])
+[![[YOUR_USERNAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?user
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME])](url)
 
 
 <!-- GitHub Stats Section 
