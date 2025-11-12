@@ -14,8 +14,58 @@
 <br>
 <br>
 
-[![[YOUR_USERNAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?user
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME])](url)
+
+<!-- Tech Stack Section
+<h3 align="center">🚀 Skills 🚀</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
+</div>
+<br>
+-->
+
+<!-- Studying Section
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+</div>
+<br>
+-->
+
+<!-- Tools Section
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
+</div>
+<br>
+-->
+
+<!-- Contact Section
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@sunflwwer">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <a href="mailto:ghosti007@naver.com">
+    <img src="https://img.shields.io/badge/ghosti007@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
+</div>
+<br>
+<br>
+<br>
+-->
 
 
 <!-- GitHub Stats Section -->
@@ -31,8 +81,6 @@
 </a>
 </div>
 <br>
--->
-
 
 <!-- GitHub Stats Section-->
 <div align="center">
